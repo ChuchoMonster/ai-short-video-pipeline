@@ -1,5 +1,7 @@
 # AI Short-Video Pipeline ("Kissing Weird Animals")
 
+![tests](https://github.com/ChuchoMonster/ai-short-video-pipeline/actions/workflows/tests.yml/badge.svg)
+
 A small, scriptable pipeline that produces 15-second vertical AI videos for TikTok, Instagram Reels and YouTube Shorts, then schedules them across all three through the Buffer API.
 
 It was built to run a short-form channel called **Kissing Weird Animals**: each episode shows a different person trying to kiss a strange real-world animal (axolotl, tarantula, star-nosed mole, cane toad...), with a different payoff each time.
@@ -130,6 +132,13 @@ python3 scripts/buffer/schedule_episode.py 18 2026-06-01T23:00:00Z   # drafts
 | `KWA_RAW_PATH` | `finalize.sh` | Optional. Override the raw input file |
 
 Scripts read `.env` from the project root if it exists. Real environment variables take precedence in the Python scripts.
+
+## Tests
+
+- Run `python3 -m unittest discover -s tests -v` from the repo root. No packages to install; `bash` and `jq` must be on the PATH.
+- The scheduler and channel helper are tested with Buffer, GitHub Releases and ffmpeg mocked. Every committed `publish-notes.md` is also parsed, so a broken caption block fails the suite.
+- `run-episode.sh` and `finalize.sh` run for real against fake `curl`/`ffmpeg` executables, so no API calls are made, no credits are spent and no video is rendered. Every `.sh` file is syntax-checked.
+- CI runs the same command on every push and pull request (`.github/workflows/tests.yml`).
 
 ## Buffer API notes
 
