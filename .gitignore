@@ -1,0 +1,36 @@
+# Secrets
+.env*
+!.env.example
+
+# Logs and API response dumps
+*.log
+.poll-resp.json
+*-resp.json
+
+# Local config with account IDs (see scripts/buffer/channels.example.json)
+scripts/buffer/channels.json
+
+# Generated output and media
+output/
+References*/
+references/
+slate/
+*/raw/
+*/reference/
+*.mp4
+*.mov
+*.png
+*.jpg
+*.jpeg
+*.webm
+*.webp
+# Sample finals intentionally kept
+!final-episodes/03/final.mp4
+!final-episodes/05/final.mp4
+!final-episodes/17/final.mp4
+
+# Python / OS
+__pycache__/
+*.pyc
+.DS_Store
+.claude/settings.local.json

@@ -1,0 +1,96 @@
+Guerrilla-style iPhone footage shot from the POV of a young woman named Casey. Casey is the operator (she is approximately 24 years old, Brandon's girlfriend); she is HOLDING the phone in one hand the entire video. Casey is NEVER visible on screen.
+
+CRITICAL — NO STRANGERS RULE: NO additional person ever enters the frame except Brandon.
+
+CRITICAL — NO PHONE-IN-HAND IN FRAME RULE: Casey is filming WITH her phone, so a phone must NEVER appear in the frame. If at any point Casey's hand (or any object she's holding) enters the frame — for example, if she reaches forward to point or gesture — that hand MUST BE EMPTY (open-palmed, fingers visible, NOT holding a phone, NOT holding any object). The phone she is filming with stays entirely behind the camera at all times and NEVER becomes visible in any frame for any reason.
+
+CRITICAL — THE KISS MUST BE VISIBLY RENDERED, CANNOT BE SKIPPED, CANNOT BE IMPLIED: this video's entire premise is that Brandon kisses the horned lizard. Before any payoff or reaction happens, the viewer MUST SEE Brandon's closed lips physically pressing against the top of the lizard's spiny head — a clear, on-screen, visible kiss action. The kiss CANNOT be skipped. The kiss CANNOT happen off-screen. The kiss CANNOT be cut around. The kiss CANNOT be implied through reactions alone. Brandon's face must visibly travel down toward the lizard, his closed lips must visibly compress against the lizard's scaly head for a brief beat (about half a second of visible contact), and his face must visibly pull back. This kiss is the CENTRAL VISUAL EVENT of the video. If you must choose between rendering the kiss and rendering the reaction, RENDER THE KISS. Without the kiss the video does not function.
+
+CRITICAL — THE KISS IS RENDERED IN A WIDE FRAMING, NEVER A CLOSE-UP: the kiss must be shown from a WIDE-ENOUGH ANGLE that BOTH Brandon's whole upper body (from his head down to at least his torso) AND the lizard on the dirt are clearly visible in the same frame. The camera does NOT zoom in on Brandon's lips. The camera does NOT cut to a close-up of his face meeting the lizard. The camera does NOT push in on the contact point. The viewer sees the kiss happen from across the courtyard, the same wide handheld distance as the rest of the closer beat — Brandon visible as a person crouching beside the lizard, with the kiss happening as a small visible action within that wider frame. Think "phone bystander a few feet away" not "macro lens on lips."
+
+The phone NEVER flips, NEVER flies, NEVER tumbles, NEVER leaves Casey's hand.
+
+CAMERA POSITION — CASEY AND BRANDON STANDING SIDE-BY-SIDE, BOTH FAR FROM THE LIZARD: Casey is standing RIGHT NEXT TO Brandon throughout the wide-shot phase. The camera is held out at her side filming the lizard in front of them, with Brandon ALSO visible in the frame — entering from the right side, partially-in-half-out-of frame (his shoulder, side of torso, gesturing arm), because he is standing close beside Casey. Both Casey AND Brandon are FAR from the lizard (about 12 feet away).
+
+ACTIVE HANDHELD CAMERA + WALKING MOTION: Casey is WALKING slowly during the wide-shot phase, her body shifts naturally with each step, the phone bobs with her walking gait. The camera is NOT static, NOT setup-on-a-tripod, NOT locked-off.
+
+CAMERA-MOVES-WITH-LAUGHTER RULE (THE PAYOFF PHASE): when Casey laughs hard during the payoff (12s onward), the camera bobs UP AND DOWN in a sloppy haphazard motion — not a vibration, not a shake, but the natural wobbling of a phone in the hand of someone whose whole body is laughing hard. The frame visibly moves with her body convulsions — drifts up an inch, drops, jerks slightly sideways — exactly like a real phone-in-the-hand of someone losing it laughing.
+
+BRANDON MUST MOVE NATURALLY — NOT STAND STIFF: Brandon is NOT standing still with his arms at his sides. He gestures with his hands while talking, shifts his weight, occasionally points at the lizard, briefly adjusts the brim of his ball cap or scratches his stubble, real-person body language with constant micro-movement. He is a real guy hanging out, NOT a posed statue.
+
+EXACTLY ONE CUT IN THIS VIDEO: ONE sharp cut between the wide buildup and the closer beat. After that single cut the rest is continuous handheld.
+
+The on-screen subject is Brandon.
+
+BRANDON'S APPEARANCE — REAL ARIZONA DESERT GUY, ABSOLUTELY NOT AI-LOOKING, ABSOLUTELY NOT ANIMATED, ABSOLUTELY NOT A STOCK-PHOTO MODEL: Brandon is about 25 years old, white American Southwest, lean wiry build, weathered tanned face from constant Arizona sun.
+
+His face has REAL HUMAN IMPERFECTIONS — these must be visible to a careful viewer and they break the AI uncanny-valley:
+- A small dark beauty mark or mole on his right cheek, real-skin-irregularity placement
+- Visible skin pores across his nose and forehead — NOT smoothed
+- Mild stubble irregularity — patchy density, slightly thicker on his chin than along his jaw
+- Faintly chapped lower lip — NOT plump, NOT perfectly outlined
+- A faint sunburn-line on the back of his neck where the ball-cap shadow ends, slightly redder skin below the line
+- Mild dark under-eye, like a guy who's been outside a lot and didn't sleep great
+- Slight asymmetry: one eyebrow slightly higher than the other, nose slightly off-center, lips not perfectly mirrored, one ear slightly more forward than the other
+- A small bit of dried sweat-residue or dirt-smudge on his temple — real grit
+
+NO SCARS anywhere on his face, neck, or jawline — his skin should have weathered real-life character but no visible scar marks at all.
+
+His hair is sandy-brown short and slightly messy — a few strands escaping the back/sides of his sun-faded khaki baseball cap, hair slightly oily at the temples like a real guy who's been outside in the heat.
+
+His face is NOT smoothed, NOT airbrushed, NOT lit with softbox/studio key-lighting, NOT a hyperreal stock-photo, NOT an AI-rendered perfectly-symmetric face, NOT animated-looking, NOT a video-game character.
+
+CRITICAL — Lighting on his face must MATCH the harsh-dry-warm Sonoran late-afternoon ambient — same warm amber haze coming from the low sun, shadow patches from the ball-cap brim cutting across his upper face. His face must look like it's IN this environment, not pasted onto it. Use the same dust-haze cast across his cheeks that you use for the dust-haze across the dirt and stucco.
+
+He is wearing a faded heather-grey LONG-SLEEVE thermal henley shirt — visibly worn-in, with slight collar-fade where the neckline rubs, faint pilling on the shoulders, a small dried-dirt smudge on the chest. Cuffs at his wrists (sleeves go all the way to wrists — forearms NEVER visible). Faded dark blue jeans (legs fully covered). Dusty brown work boots.
+
+Brandon's FULL FACE is NEVER centered or held in the frame for more than half a second. The ball-cap brim shades the upper half of his face most of the time.
+
+DESATURATED COLORS THROUGHOUT — muted reddish-brown dirt, muted tan stucco, muted brown lizard, muted dusty cactus greens, soft amber-hazy late-afternoon light, faded heather-grey/dark blue clothing. Slightly de-saturated, no filters, no graded film, no postcard look.
+
+CRITICAL LIP-SYNC RULE: Brandon's mouth ONLY moves and forms words during HIS OWN spoken lines.
+
+LANGUAGE RULE — CASUAL AMERICAN SOUTHWEST ENGLISH ONLY: BOTH speak in casual American Southwest English. NO PROFANITY of any kind — no "fuck," no "shit," no "damn," no "hell." Clean exclamations only: "dude," "bro," "babe," "oh god," "oh my god," "no way," "what the —," gasps, real laughter, real panicked exclamations.
+
+ACTING REALISM RULE FOR THE BUILDUP (0–10s): during the buildup before the kiss, both characters speak in PRIVATE LOW MURMURED voices — NOT projected, NOT performative, NOT scripted-clean. Half-mumbled fragments, real natural soft laughter. Casey egging Brandon at conversational, near-private volume.
+
+PAYOFF REACTION — ASYMMETRIC: BRANDON FREAKS OUT, CASEY LAUGHS LIKE CRAZY: when the lizard squirts blood at Brandon's face and droplets clip his cheek/chin, the two characters react COMPLETELY DIFFERENTLY:
+
+- BRANDON: REAL PANIC + DISGUST, NOT LAUGHING. He physically jerks his head back hard the INSTANT the blood comes out (his reaction is IMMEDIATE — there is ZERO DELAY between the blood appearing in the air and his body reacting). His hand SLAMS to his cheek frantically wiping at the spatter. He is FREAKED OUT — disgusted, alarmed, trying to get the blood off his face fast. His face shows real disgust and a hint of fear, NOT amusement. He is NOT laughing about this. He yelps in REAL PANIC, voice cracking with alarm, at LOUD volume: "OH — OH! Get it off! Get it OFF! What — Casey what is — get it OFF — !" He keeps frantically wiping at his cheek with his sleeve, looking at his sleeve in horror, then wiping again. Real panic-disgust energy throughout.
+
+- CASEY (off-camera): LOUD UNCONTROLLED LAUGHTER, hard belly-laugh, NOT scared, NOT panicked. She is DYING LAUGHING because her boyfriend just got blood-squirted in the face by a lizard. Real loud uncontained crying-laughter — almost gasping for breath between laughs. The phone in her hand BOBS UP AND DOWN with her body-laugh convulsions — visible up-down haphazard motion of the frame. She might try to say something through the laughter but can barely get the words out: "AHAHAHA — babe — AHAHA — OH MY GOD — AHAHAHA — babe your FACE — AHAHA — " She is NOT trying to help him, she is laughing too hard to do anything.
+
+This ASYMMETRIC reaction is critical — the realism comes from one person experiencing the gross thing and the other person dying laughing watching it. Same as a real-life moment.
+
+The horned lizard is a real wild Phrynosoma (Sonoran desert horned lizard) — about 5 inches long, palm-sized, mottled muted dusty tan-brown with darker blotches, classic CROWN OF SHORT SHARP HORNS around its head, smaller backward-pointing spines along body edges. Real wild desert grit. NOT a stock-photo specimen.
+
+LIZARD BEHAVIOR — STILL UNTIL AFTER THE KISS, THEN A SHARP BLOOD-SQUIRT:
+- PHASE 1 (0–9s): COMPLETELY STILL in defensive posture, body pressed flat and slightly puffed, head slightly raised. Faintest body-breath only.
+- KISS CONTACT (9–10s): Brandon's closed lips PHYSICALLY PRESS against the top of the lizard's spiny head for half a second.
+- THE BLOOD-SQUIRT (10–10.5s): IMMEDIATELY as Brandon's lips break contact and his face starts pulling back, the lizard's left eye-margin pulses once and a THIN ARC OF DARK RED BLOOD SQUIRTS UPWARD AND OUTWARD from the corner of the eye toward Brandon's face. A few droplets CLIP HIS LEFT CHEEK AND CHIN, visible small dark-red spatters on his stubble and cheek. The blood is DARK RED real-animal-blood color (NOT bright cherry, NOT cartoon, NOT magenta), thin arcing line of droplets, NOT a fountain.
+- PHASE 3 (10.5s onward): lizard immediately returns to absolutely still defensive posture, completely indifferent.
+
+CRITICAL — INSTANT REACTION RULE: there must be ZERO DELAY between the blood leaving the lizard's eye and Brandon's panicked reaction. His head-jerk and "OH!" yelp happen IN THE SAME FRAME as the blood reaching his face. Likewise the phone BOBS hard from Casey's laughter starting in the same frame. NO half-second pause, NO delayed comprehension. Real humans react INSTANTLY to liquid hitting their face — render it that way.
+
+KISS RULE — PHYSICAL CONTACT REQUIRED, NO TONGUE, NO OPEN MOUTH, QUICK NOT SENTIMENTAL: Brandon's closed lips MUST PHYSICALLY TOUCH the top of the lizard's spiny head. Under HALF A SECOND.
+
+FACE-DISTANCE / HESITATION RULE: Brandon hesitates ONLY FROM A FEW FEET AWAY (4–5 feet from the lizard), then ONLY when he COMMITS does he step forward, crouch down, peck quickly, and immediately back away.
+
+At 0 to 3 seconds (HOOK — LIZARD ALONE IN DEFENSIVE POSTURE, BOTH IN FRAME AT DISTANCE, BRANDON LAUGHING, CAMERA WALKING): wide handheld walking shot. Lizard in lower-middle of frame, defensive posture, still. Brandon partially-in-frame at the right edge (shoulder + side of torso + one hand visible adjusting his ball cap). Both ~12 ft from lizard. Casey walking, phone bobs with her gait. Brandon mumbles in real private low Southwest English: "...look at the little spiky guy..." Casey off-camera mumbles low private breath-laugh: "...you said you'd do it babe..." Voices overlap at low private volume. Brandon's body shifts weight, moves naturally, gesturing slightly.
+
+At 3 to 6 seconds (CONTINUOUS — STILL WIDE, BACK-AND-FORTH AT DISTANCE): continuous wobbly handheld walking shot. Both still ~12 ft from lizard. Lizard motionless. Brandon gesturing more energetically, hands moving, half-laughing-protesting. Brandon mumble-laughs low private: "...babe no — it's got SPIKES — look at the spikes — I don't know about this..." Casey off-camera mumbles low private half-laughing: "...just one kiss... come on babe..." Voices overlap. Brandon STILL FAR from lizard.
+
+At 6 to 8 seconds (THE ONE CUT — BRANDON STILL AT A WIDE DISTANCE NOW MOVING TO CROUCH NEAR LIZARD): single SHARP CUT. The new shot is STILL A WIDE-ENOUGH FRAMING that you can see Brandon's full upper body AND the lizard in the same frame — Casey has stayed back at her position and is just filming closer-but-still-wide. Brandon is now visible moving the last few feet toward the lizard and lowering into a half-crouch beside it. Framing shows Brandon as a full upper-body figure in the left half of the frame, lizard on the dirt in the lower-right. This is NOT a close-up on Brandon's face. He briefly hovers his head above the lizard then pulls back slightly. Brandon mumbles low: "...alright... alright fine..." Casey mumbles off-camera low breath-laughing: "...do it babe... do it..."
+
+At 8 to 10 seconds (THE KISS — IN WIDE FRAMING, NOT CLOSE-UP): this 2-second beat is dedicated entirely to the kiss action, AND IT IS SHOWN IN WIDE FRAMING. Both Brandon (full upper body, head to torso) and the lizard are visible in the same frame. The camera does NOT zoom in. The camera does NOT cut to a close-up. The viewer sees the kiss happen from across the courtyard at the wide handheld distance.
+- (8.0–8.5s) Brandon takes a small visible breath, his torso leans forward — still all visible in wide frame.
+- (8.5–9.5s) Brandon's head visibly travels DOWN toward the top of the lizard's spiny head — the lean-in motion is clear in the wide frame. The camera does NOT zoom in or push closer.
+- (9.5–10.0s) Brandon's closed lips PHYSICALLY COMPRESS against the scaly skin between the horns at the top of the lizard's head. The lip-to-lizard contact happens within the wide frame — viewers see Brandon's head dipped low against the small lizard on the dirt. NO TONGUE. NO open mouth. The lizard does NOT move during contact. Brandon then visibly pulls his head back, anticipatory tilt to the side.
+
+This kiss beat CANNOT be skipped, cannot be implied, cannot happen off-screen, cannot zoom to a close-up. The viewer must see the lean-in, the contact, the pull-back — all from the wide framing. NO DIALOGUE during this 2-second beat — only ambient and the quick lip-peck sound at contact.
+
+At 10 to 13 seconds (THE INSTANT-REACTION BLOOD-SQUIRT PAYOFF — BRANDON FREAKS OUT, CASEY LOSES IT LAUGHING): IMMEDIATELY as Brandon's lips break contact, the lizard's left eye-margin pulses once and a THIN ARC OF DARK RED BLOOD SQUIRTS from the corner of its eye toward Brandon's face. A few droplets CLIP HIS LEFT CHEEK AND CHIN — visible small dark-red spatters on his stubble. IN THE EXACT SAME FRAME the blood reaches his face, Brandon's body JERKS HARD backward (zero delay), head snapping back, hand SLAMMING to his cheek to wipe. He YELPS in REAL PANIC at LOUD volume: "OH — OH! Get it OFF! Get it off get it off — Casey what is — Casey — !" He keeps frantically wiping at his cheek with his long sleeve, looking at the sleeve in horror, wiping again, real panic-disgust energy. He is NOT laughing. He is FREAKED OUT. SIMULTANEOUSLY Casey off-camera bursts into LOUD UNCONTROLLED REAL LAUGHTER — hard belly-laugh, almost crying-laughing. The phone in her hand BOBS UP AND DOWN in haphazard motion, the frame visibly moves with her body-laughter convulsions — drifts up an inch, drops, jerks slightly sideways. She tries to talk through the laughter, barely getting words out: "AHAHAHA — babe — AHAHA — OH MY GOD — AHAHAHA — babe your FACE — AHAHA — " She is NOT helping, she is DYING LAUGHING.
+
+At 13 to 15 seconds (TAIL — BRANDON STILL FREAKING OUT WIPING FACE, CASEY STILL LAUGHING HARD, CAMERA STILL BOBBING): the lizard sits absolutely still on the dirt, completely indifferent. Brandon is still frantically wiping his cheek and chin with his sleeve, looking at the dark-red stains on his cuff with disgust, repeating in real distress: "oh god... oh god... is it OFF? babe is it OFF? — " Casey continues loud uncontrolled real laughter off-camera, the phone still bobbing up-down haphazardly with her body convulsions, barely able to speak through the laughter: "AHAHA — babe — AHAHA — I can't — I can't — AHAHAHA — " Brief tail, video ends with him still panicked and her still dying laughing.
+
+Diegetic audio only. No music, no soundtrack. Phone microphone quality. CRITICAL ASYMMETRIC AUDIO: during the buildup both at LOW PRIVATE MURMURED VOLUME. DURING THE PAYOFF onward, Brandon is in LOUD REAL PANIC voice (yelping, distressed, frantic) and Casey is in LOUD UNCONTROLLED LAUGHTER (crying-laughing, gasping, barely-speaking-through-laughter). Different emotional registers, both loud, both real. NO ONE is performing. NO ONE is theatrical. Brandon's panic and Casey's laughter come from real-startle response to a real surprising event, NOT TikTok-creator performance. Ambient Tucson-desert-backyard late afternoon — dry desert air, distant cicada drone, faint car-engine, occasional faint dog bark, no background music. The kiss sound is a single quick natural lip-peck. The blood-squirt sound is a quick wet "pfft" of fluid pressure releasing from the eye. The footfalls of Casey's walking during the wide phase are audible as soft dirt-scuffing.

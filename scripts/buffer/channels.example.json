@@ -1,0 +1,20 @@
+{
+  "tiktok": {
+    "id": "000000000000000000000001",
+    "name": "your-tiktok-handle",
+    "type": "profile",
+    "organizationId": "000000000000000000000000"
+  },
+  "instagram": {
+    "id": "000000000000000000000002",
+    "name": "your-instagram-handle",
+    "type": "business",
+    "organizationId": "000000000000000000000000"
+  },
+  "youtube": {
+    "id": "000000000000000000000003",
+    "name": "Your YouTube Channel",
+    "type": "channel",
+    "organizationId": "000000000000000000000000"
+  }
+}
